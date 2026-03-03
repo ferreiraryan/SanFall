@@ -1,0 +1,3 @@
+/home/ryck/Documents/Projects/C++/SandFall/build/CMakeFiles/SandFall.dir
+/home/ryck/Documents/Projects/C++/SandFall/build/CMakeFiles/edit_cache.dir
+/home/ryck/Documents/Projects/C++/SandFall/build/CMakeFiles/rebuild_cache.dir

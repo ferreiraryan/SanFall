@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/SandFall.dir/link.d CMakeFiles/SandFall.dir/src/main.cpp.o -o SandFall  /usr/lib/libraylib.so -L/usr/lib -lraylib
